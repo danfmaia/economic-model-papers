@@ -1,6 +1,6 @@
 # **Economic Model Papers Repository**
 
-![Repo cover artwork](./cover.png)
+![Repo cover artwork](./cover-artwork.png)
 
 Welcome to the **Economic Model Papers** repository! This platform serves as an open resource for collaborative research on economic models, combining theoretical discussions with practical implementations, simulations, and data. Our goal is to advance economic understanding through shared knowledge and collective effort.
 
@@ -54,7 +54,7 @@ Here’s an overview of the key directories and files:
 This section contains the research papers and their associated materials. Each paper has a dedicated subdirectory, with a detailed entry file (`README.md`) outlining its objectives, structure, and instructions for running simulations or analyses.
 
 - **Current Papers**:
-  - **[A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States](papers/UBI-progressive-adoption-model-in-USA/README.md)**
+  - **[A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States of America](papers/UBI-progressive-adoption-model-in-USA/README.md)**
 
 As new papers are added to the repository, they will be listed here with links to their respective `README.md` files for easy navigation.
 

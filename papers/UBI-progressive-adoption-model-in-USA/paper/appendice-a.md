@@ -1,6 +1,6 @@
 ## **Appendix A: Theoretical Framework and Mathematical Model**
 
-In this appendix, we present the theoretical foundations and mathematical formulations of our model for the progressive adoption of Universal Basic Income (UBI) in the United States. While the model's structure is fully developed, we acknowledge that the actual numerical calculations and simulations have not been conducted at this time. This work is intentionally left open for contributions from researchers and practitioners who wish to explore the model further.
+In this appendix, we present the theoretical foundations and mathematical formulations of our model for the progressive adoption of Universal Basic Income (UBI) in the USA. While the model's structure is fully developed, we acknowledge that the actual numerical calculations and simulations have not been conducted at this time. This work is intentionally left open for contributions from researchers and practitioners who wish to explore the model further.
 
 ### **A1. Mathematical Formulation**
 

@@ -1,8 +1,8 @@
-# **A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States**
+# **A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States of America**
 
 ## **Abstract**
 
-This paper develops a comprehensive mathematical model to simulate the progressive adoption of a Universal Basic Income (UBI) system in the United States. By integrating key economic components—such as population dynamics, government budget constraints, taxation mechanisms, consumption behavior, labor market interactions, production functions, and inflation dynamics—the model assesses the feasibility and potential impacts of implementing UBI under various scenarios. The model is calibrated using empirical data from reputable sources to ensure accuracy and relevance.
+This paper develops a comprehensive mathematical model to simulate the progressive adoption of a Universal Basic Income (UBI) system in the United States of America (USA). By integrating key economic components—such as population dynamics, government budget constraints, taxation mechanisms, consumption behavior, labor market interactions, production functions, and inflation dynamics—the model assesses the feasibility and potential impacts of implementing UBI under various scenarios. The model is calibrated using empirical data from reputable sources to ensure accuracy and relevance.
 
 Simulation results indicate that UBI implementation is economically feasible with careful planning and can significantly reduce poverty rates and income inequality. The anticipated reduction in labor supply due to the income effect is modest, suggesting that UBI may not substantially discourage workforce participation. However, the model also highlights the importance of managing fiscal impacts, particularly concerning government debt and funding mechanisms.
 
@@ -16,13 +16,13 @@ The advent of automation and artificial intelligence has sparked significant deb
 
 ### **Research Problem**
 
-Despite extensive discussions on UBI, there is a lack of comprehensive mathematical models that simulate its progressive implementation and assess its long-term economic impacts in the United States. Existing studies often focus on theoretical arguments or limited pilot programs without integrating the complex dynamics of the U.S. economy.
+Despite extensive discussions on UBI, there is a lack of comprehensive mathematical models that simulate its progressive implementation and assess its long-term economic impacts in the USA. Existing studies often focus on theoretical arguments or limited pilot programs without integrating the complex dynamics of the U.S. economy.
 
 ### **Objectives**
 
 This paper aims to:
 
-- Develop a mathematical model that integrates key economic components to simulate the progressive adoption of UBI in the United States.
+- Develop a mathematical model that integrates key economic components to simulate the progressive adoption of UBI in the USA.
 - Calibrate the model using empirical data to ensure accuracy and relevance.
 - Analyze the feasibility and sustainability of UBI implementation under various scenarios.
 
@@ -88,7 +88,7 @@ Despite the wealth of research on UBI, several gaps remain:
 
 - **Progressive Implementation Analysis:** Few studies examine the gradual adoption of UBI and its transitional impacts on the economy.
 
-- **Empirical Calibration:** Limited efforts have been made to calibrate models with up-to-date empirical data specific to the United States, reducing the relevance of findings for policymakers.
+- **Empirical Calibration:** Limited efforts have been made to calibrate models with up-to-date empirical data specific to the USA, reducing the relevance of findings for policymakers.
 
 ### **Contribution of This Paper**
 
@@ -110,7 +110,7 @@ This paper addresses these gaps by:
 
 #### **Overview**
 
-The model is designed to simulate the progressive adoption of a Universal Basic Income (UBI) system in the United States by integrating key economic components. It captures population dynamics, UBI implementation schedules, government budget constraints, taxation mechanisms, consumption behavior, labor market interactions, production functions, inflation dynamics, and welfare measures.
+The model is designed to simulate the progressive adoption of a Universal Basic Income (UBI) system in the USA by integrating key economic components. It captures population dynamics, UBI implementation schedules, government budget constraints, taxation mechanisms, consumption behavior, labor market interactions, production functions, inflation dynamics, and welfare measures.
 
 #### **Mathematical Formulation**
 
@@ -548,7 +548,7 @@ _(Note: Figures are illustrative placeholders.)_
 
 ### **Interpretation of Results**
 
-The simulation results from the three UBI implementation scenarios provide valuable insights into the economic and social impacts of introducing a Universal Basic Income in the United States.
+The simulation results from the three UBI implementation scenarios provide valuable insights into the economic and social impacts of introducing a Universal Basic Income in the USA.
 
 #### **Economic Feasibility and Fiscal Impacts**
 
@@ -624,7 +624,7 @@ While the model provides valuable insights, several limitations should be acknow
 
 ### **Concluding Remarks**
 
-The findings of this study contribute to the ongoing discourse on Universal Basic Income by providing a detailed analysis of its potential economic and social impacts in the United States. While challenges exist, particularly in funding and fiscal management, the potential benefits in terms of poverty alleviation and reduced income inequality are significant. The modest effects on labor supply further support the viability of UBI as a policy option.
+The findings of this study contribute to the ongoing discourse on Universal Basic Income by providing a detailed analysis of its potential economic and social impacts in the USA. While challenges exist, particularly in funding and fiscal management, the potential benefits in terms of poverty alleviation and reduced income inequality are significant. The modest effects on labor supply further support the viability of UBI as a policy option.
 
 Careful consideration of implementation strategies, funding mechanisms, and complementary policies is essential to maximize the benefits and mitigate potential drawbacks. As the economy continues to evolve with technological advancements and changing labor markets, UBI presents an opportunity to reimagine social support systems for the 21st century.
 
@@ -632,7 +632,7 @@ Careful consideration of implementation strategies, funding mechanisms, and comp
 
 ### **Summary of Findings**
 
-This study developed a comprehensive mathematical model to simulate the progressive adoption of a Universal Basic Income (UBI) system in the United States. By integrating key economic components—including population dynamics, government budget constraints, taxation mechanisms, consumption behavior, labor market interactions, production functions, and inflation dynamics—we assessed the feasibility and potential impacts of implementing UBI under various scenarios.
+This study developed a comprehensive mathematical model to simulate the progressive adoption of a Universal Basic Income (UBI) system in the USA. By integrating key economic components—including population dynamics, government budget constraints, taxation mechanisms, consumption behavior, labor market interactions, production functions, and inflation dynamics—we assessed the feasibility and potential impacts of implementing UBI under various scenarios.
 
 The simulation results indicate that:
 
@@ -662,7 +662,7 @@ While the study provides meaningful insights, several limitations should be ackn
 
 ### **Closing Remarks**
 
-The exploration of Universal Basic Income through a detailed mathematical model offers a promising avenue for understanding its potential effects on the economy and society. While challenges exist, the potential benefits of UBI in promoting economic security and reducing inequality merit serious consideration. This study serves as a foundation for further research and dialogue on the viability of UBI as a policy instrument in the United States.
+The exploration of Universal Basic Income through a detailed mathematical model offers a promising avenue for understanding its potential effects on the economy and society. While challenges exist, the potential benefits of UBI in promoting economic security and reducing inequality merit serious consideration. This study serves as a foundation for further research and dialogue on the viability of UBI as a policy instrument in the USA.
 
 ## **References**
 

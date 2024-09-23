@@ -2,7 +2,7 @@
 """
 Simulation Script for UBI Progressive Adoption Model in the USA
 
-This script simulates the economic impacts of progressively implementing a Universal Basic Income (UBI) in the United States.
+This script simulates the economic impacts of progressively implementing a Universal Basic Income (UBI) in the USA.
 
 Author: [Your Name]
 Date: [Date]

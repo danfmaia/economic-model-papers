@@ -1,9 +1,0 @@
-# Poverty Rate Reduction Over Time
-plt.plot(results['Year'], results['Poverty_Rate'], label='Poverty Rate')
-plt.title('Poverty Rate Reduction Over Time')
-plt.xlabel('Year')
-plt.ylabel('Poverty Rate (%)')
-plt.legend()
-plt.grid(True)
-plt.savefig('poverty-reduction.png')
-plt.show()

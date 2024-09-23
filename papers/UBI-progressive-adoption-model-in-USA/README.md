@@ -1,10 +1,10 @@
-# UBI Progressive Adoption Model for the USA
+# A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States of America - README
 
-This directory contains the model-centric paper **"A Mathematical Model for Progressive Adoption of Universal Basic Income for the United States of America"**, along with the associated code, data, and figures.
+This directory contains the model-centric paper **"A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States of America"**, along with the associated code, data, and figures.
 
 ## **Overview**
 
-The study develops a theoretical model to simulate the economic and social impacts of progressively implementing a Universal Basic Income (UBI) in the United States. It examines various scenarios and analyzes key indicators such as GDP growth, government debt, poverty rates, and income inequality.
+The study develops a theoretical model to simulate the economic and social impacts of progressively implementing a Universal Basic Income (UBI) in the USA. It examines various scenarios and analyzes key indicators such as GDP growth, government debt, poverty rates, and income inequality.
 
 ## **Contents**
 
@@ -51,7 +51,7 @@ The study develops a theoretical model to simulate the economic and social impac
 
 ## **Data**
 
-- **Calibration Data**: Located in `data/calibration-data.csv`, containing the parameters used for the simulation.
+- **Calibration Data**: Located in `data/calibration-data.csv`, containing the parameters used in the simulation.
 - **Simulation Results**: Generated after running the simulation script, saved in `data/simulation-results.csv`.
 
 ## **Contributing**
