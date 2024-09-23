@@ -1,0 +1,19 @@
+Parameter,Symbol,Value,Source
+Initial Population,P0,330000000,U.S. Census Bureau
+Population Growth Rate,n,0.005,U.S. Census Bureau
+Marginal Propensity to Consume,MPC,0.8,Carroll et al. (2017)
+Labor Supply Elasticity,epsilon,0.1,Chetty et al. (2011)
+Initial Tax Rate,tau_0,0.20,Congressional Budget Office
+Total Factor Productivity,A,1.0,Calibrated to match initial GDP
+Output Elasticity of Labor,alpha,0.7,Economic literature consensus
+Depreciation Rate,delta,0.05,Bureau of Economic Analysis
+Interest Rate on Government Debt,r,0.03,Federal Reserve Economic Data
+Maximum UBI Amount,UBI_max,12000,Policy Proposal
+UBI Adoption Period,T_adopt,10,Assumption
+Autonomous Consumption,C0,1000000000000,Estimated from consumption data
+Initial Capital Stock,K0,5000000000000,Bureau of Economic Analysis
+Initial Government Debt,D0,20000000000000,U.S. Treasury
+Initial Inflation Rate,pi0,0.02,Bureau of Labor Statistics
+Potential GDP,Y_potential,20000000000000,Estimated from historical data
+Initial Labor Supply,L0,160000000,Bureau of Labor Statistics
+Average Income per Capita,Y_avg,60000,U.S. Census Bureau
