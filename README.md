@@ -1,5 +1,7 @@
 # **Economic Model Papers Repository**
 
+![Repo cover artwork](./cover.png)
+
 Welcome to the **Economic Model Papers** repository! This platform serves as an open resource for collaborative research on economic models, combining theoretical discussions with practical implementations, simulations, and data. Our goal is to advance economic understanding through shared knowledge and collective effort.
 
 ---

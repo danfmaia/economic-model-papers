@@ -1,6 +1,6 @@
-# UBI Progressive Adoption Model in the USA
+# UBI Progressive Adoption Model for the USA
 
-This directory contains the model-centric paper **"A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States"**, along with the associated code, data, and figures.
+This directory contains the model-centric paper **"A Mathematical Model for Progressive Adoption of Universal Basic Income for the United States of America"**, along with the associated code, data, and figures.
 
 ## **Overview**
 
