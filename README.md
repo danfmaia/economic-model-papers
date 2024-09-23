@@ -8,6 +8,7 @@ Welcome to the **Economic Model Papers** repository! This platform serves as an 
 
 - [Purpose](#purpose)
 - [Repository Structure](#repository-structure)
+- [Papers](#papers)
 - [How to Contribute](#how-to-contribute)
 - [Templates for New Papers](#templates-for-new-papers)
 - [Common Resources](#common-resources)
@@ -32,7 +33,8 @@ Here’s an overview of the key directories and files:
 - `CONTRIBUTING.md`: Guidelines for contributing to the repository.
 - `LICENSE`: Licensing information.
 - `papers/`: Directory for model-centric economic papers (each paper has its own subfolder with related files such as code, data, and appendices).
-  - Each subfolder includes:
+  - Each paper has its own **README.md**, providing a detailed description of the research, methodology, and structure of the paper.
+  - Subfolders within each paper directory include:
     - **paper/**: The main paper and appendices.
     - **code/**: Simulation scripts, sensitivity analyses, and models.
     - **data/**: Calibration data, input parameters, and simulation results.
@@ -42,6 +44,17 @@ Here’s an overview of the key directories and files:
   - **code-snippets/**: Useful code snippets and scripts for economic modeling.
   - **data/**: Common datasets for modeling.
   - **references/**: Key academic papers and references for further reading.
+
+---
+
+## **Papers**
+
+This section contains the research papers and their associated materials. Each paper has a dedicated subdirectory, with a detailed entry file (`README.md`) outlining its objectives, structure, and instructions for running simulations or analyses.
+
+- **Current Papers**:
+  - **[A Mathematical Model for Progressive Adoption of Universal Basic Income in the United States](papers/UBI-progressive-adoption-model-in-USA/README.md)**
+
+As new papers are added to the repository, they will be listed here with links to their respective `README.md` files for easy navigation.
 
 ---
 
