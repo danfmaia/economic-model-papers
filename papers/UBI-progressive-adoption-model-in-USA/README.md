@@ -9,8 +9,8 @@ The study develops a theoretical model to simulate the economic and social impac
 ## **Contents**
 
 - **paper/**: Contains the main paper and appendices.
-  - [**Main Paper**](/paper/main_paper.Md)
-  - [**Appendices**](/paper/appendices.md)
+  - [**Main Paper**](./paper/main-paper.Md)
+  - [**Appendices**](./paper/appendices.md)
 - **code/**: Python scripts for running simulations and performing sensitivity analyses.
 - **data/**: Calibration data and simulation results.
 - **figures/**: Generated figures illustrating the simulation outcomes.
